@@ -1,0 +1,5 @@
+# SAMPLE TEST DATA - fictional records only
+record_id,name,category,quantity,active
+TST-001,Sample Widget,hardware,12,true
+TST-002,Demo Cable,accessory,25,false
+TST-003,Example Adapter,accessory,8,true
